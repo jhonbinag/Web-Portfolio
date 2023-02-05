@@ -68,13 +68,13 @@ const work = () => {
                     {/*Hover Effects*/}
                     <div className="opacity-0 group-hover:opacity-100">
                         <span className='font-2xl font-bold text-white tracking-wider'>
-                            WordPress Project
+                            React JS Travel Web Agency
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://www.lightchangescoaching.com/' target='_blank'>
+                            <a href='https://travel-website-ruddy.vercel.app//' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</buttons>
                             </a>
-                            <a href='/'>
+                            <a href='/https://github.com/jhonbinag/travel-website' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</buttons>
                             </a>
                         </div>
