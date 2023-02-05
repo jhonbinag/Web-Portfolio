@@ -74,7 +74,7 @@ const work = () => {
                             <a href='https://travel-website-ruddy.vercel.app//' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</buttons>
                             </a>
-                            <a href='/https://github.com/jhonbinag/travel-website' target='_blank'>
+                            <a href='hhttps://github.com/jhonbinag/travel-website.git' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</buttons>
                             </a>
                         </div>
