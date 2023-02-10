@@ -85,7 +85,7 @@ const work = () => {
                     {/*Hover Effects*/}
                     <div className="opacity-0 group-hover:opacity-100">
                         <span className='font-2xl font-bold text-white tracking-wider'>
-                            React JS Travel Web Agency
+                            React JS Dark Theme Dashboard
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://vercel.com/jhonbinag/dark-theme-dashboard' target='_blank'>
