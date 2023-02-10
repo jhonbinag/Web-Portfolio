@@ -3,6 +3,7 @@ import workOne from '../assets/Proj1.png';
 import workTwo from '../assets/Proj2.png';
 import workThree from '../assets/Proj3.png';
 import workFour from '../assets/Proj4.png';
+import workFive from '../assets/Proj5.png';
 
 const work = () => {
   return (
@@ -75,6 +76,22 @@ const work = () => {
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</buttons>
                             </a>
                             <a href='https://github.com/jhonbinag/travel-website.git' target='_blank'>
+                                <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</buttons>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div style={{backgroundImage: `url(${workFive})`}} className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+                    {/*Hover Effects*/}
+                    <div className="opacity-0 group-hover:opacity-100">
+                        <span className='font-2xl font-bold text-white tracking-wider'>
+                            React JS Travel Web Agency
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href='https://vercel.com/jhonbinag/dark-theme-dashboard' target='_blank'>
+                                <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</buttons>
+                            </a>
+                            <a href='https://github.com/jhonbinag/Dark-Theme-Dashboard.git' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Code</buttons>
                             </a>
                         </div>
