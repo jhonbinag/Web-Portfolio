@@ -88,7 +88,7 @@ const work = () => {
                             React JS Dark Theme Dashboard
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://vercel.com/jhonbinag/dark-theme-dashboard' target='_blank'>
+                            <a href='https://dark-theme-dashboard-seven.vercel.app/' target='_blank'>
                                 <buttons className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">Demo</buttons>
                             </a>
                             <a href='https://github.com/jhonbinag/Dark-Theme-Dashboard.git' target='_blank'>
