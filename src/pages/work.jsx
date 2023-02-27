@@ -4,7 +4,7 @@ import workTwo from '../assets/Proj2.png';
 import workThree from '../assets/Proj3.png';
 import workFour from '../assets/Proj4.png';
 import workFive from '../assets/Proj5.png';
-import workSix from '../assets/Proj5.png';
+import workSix from '../assets/Proj6.png';
 
 const work = () => {
   return (
