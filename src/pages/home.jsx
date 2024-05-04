@@ -15,7 +15,7 @@ const home = () => {
             building websites, landing pages, memberships, email marketing automation and full-stack web application.</p>
 
             <div>
-              <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600"><a href='https://drive.google.com/file/d/1ynoPZtU3dns8zm5sq05dPydzTiwi2Iz1/view?usp=share_link' target='_blank'>Download Resume</a>
+              <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600"><a href='https://drive.google.com/file/d/1fL389olGnvpjV9RxCbGib5BsmRBd7YQz/view?usp=sharing' target='_blank'>Download Resume</a>
                 <span className="group-hover:rotate-90 duration-300">
                 <HiArrowNarrowRight className="ml-3"/>
                 </span>
